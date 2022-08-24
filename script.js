@@ -24,3 +24,4 @@ let rangeChange = function(event) {
 inputRange.addEventListener('input', rangeChange);
 
 
+
